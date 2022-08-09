@@ -128,5 +128,10 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# ide files
+# IDE files
 .DS_Store
+
+# SAM files
+.aws-sam
+samconfig.toml
+
